@@ -1,4 +1,4 @@
-//! Rust bindings for Unidata's [libnetcdf](http://www.unidata.ucar.edu/software/netcdf/)
+//! Rust bindings for Unidata's [libnetcdf](https://www.unidata.ucar.edu/software/netcdf/)
 //!
 //! This crate allows one to store and retrieve multi-dimensional arrays from a
 //! `netCDF` supported format, which can be a `netCDF` file, a subset of `hdf5` files,
@@ -6,7 +6,7 @@
 //!
 //!
 //! `netCDF` files are self-contained, they contain metadata about the data contained in them.
-//! See the [`CF Conventions`](http://cfconventions.org/) for conventions used for climate and
+//! See the [`CF Conventions`](https://cfconventions.org/) for conventions used for climate and
 //! forecast models.
 //!
 //! To explore the documentation, see the `Functions` section, in particular
